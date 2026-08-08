@@ -1,2 +1,0 @@
-dashscope>=1.16.0
-aiohttp>=3.9.0
